@@ -9,5 +9,5 @@ The webpage has a large table with documented UFO sightings. The table can be fi
 Below is an image of the table, filtered for state (California) and shape of sighting (triangle):
 ![ufotable](https://github.com/mayamtims/UFOs/blob/main/static/images/ufo_table.png)
 
-
 ## Summary
+One drawback of this new design is that the website as a whole is unable to resize itself depending on the size of the device that it is viewed on. Two reccommendations for further development would be to customize the webpage so that is can be resized, and adding a reset button so the filters can be cleared after use. 
