@@ -7,7 +7,7 @@ The purpose of this project was to create a webpage that documents different UFO
 The webpage has a large table with documented UFO sightings. The table can be filtered by different characteristics of the sightings. 
 
 Below is an image of the table, filtered for state (California) and shape of sighting (triangle):
-![ufotable](https://github.com/mayamtims/UFOs/blob/main/static/images/ufo_table.csv)
+![ufotable](https://github.com/mayamtims/UFOs/blob/main/static/images/ufo_table.png)
 
 
 ## Summary
